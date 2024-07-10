@@ -56,7 +56,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="BBC",BBC Doctor Who Classic (720p)
 https://lnc-dr-who.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Drama
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BBC",BBC Drama
 https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCDrama.fr" tvg-logo="https://i.imgur.com/EQZPSZx.png" group-title="BBC",BBC Drama
 https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
@@ -849,5 +849,5 @@ https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv
 #EXTINF:-1 tvg-id="AnimalPlanet" group-title="KNOWLEDGE" tvg-logo="https://static.visionplus.id/images/channel/0327d527/bfef.png" ch-number="556",556 Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/astro/?id=2710
-https://prot.iptvgo.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
 
